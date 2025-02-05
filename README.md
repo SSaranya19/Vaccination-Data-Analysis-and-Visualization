@@ -62,3 +62,9 @@ Python, SQL, EDA, Power BI, Data Cleaning, Data Analysis, Data Visualization, He
 - **SQL Database:** Structured and normalized database containing the cleaned data.
 - **Power BI Reports:** A set of interactive reports and dashboards showcasing key insights.
 - **Documentation:** Detailed documentation explaining the process, challenges faced, and solutions implemented.
+
+## Dashboard Output
+![image](https://github.com/user-attachments/assets/adcdd353-0488-4805-804f-8cc34e7ec0bc)
+![image](https://github.com/user-attachments/assets/cfa5fc6d-9601-4e80-a9a8-d27b2c13f3cf)
+![image](https://github.com/user-attachments/assets/3946bf2c-66fd-4ab1-b49a-2c6f0e6d40d5)
+
